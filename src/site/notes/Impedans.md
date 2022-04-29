@@ -4,7 +4,7 @@
 
 “Växelströmsmotstånd”
 
-En impedans kan beskrivas som en realdel ([[Resistans|resistans]]) och en imaginärdel ([[Reaktans|reaktans]]). Den reaktiva delen är frekvensberoende.
+En impedans kan beskrivas som en realdel ([[Resistans|resistans]]) och en imaginärdel ([[Reaktans|reaktans]]). Den reaktiva delen är [[Frekvensberoende|frekvensberoende]].
 $$Z = R +jX$$
 eller belopp och fasvinkel:
 $$
