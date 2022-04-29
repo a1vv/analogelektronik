@@ -4,8 +4,9 @@ body {
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
     //  background-color: white;
-    .content {
-      font-size: 13px;
-      line-height: 1.5rem;
+    .content {    
+      max-width: 900px;
+      font-size: 15px;
+      line-height: 1.5;
     }
 }
